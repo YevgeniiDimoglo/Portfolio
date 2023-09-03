@@ -1,5 +1,22 @@
+# Site settings
 title: Portfolio
+author: "Yevgenii Dimoglo"
+lang: "en"
+future: true
+
+# Build settings
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Layout
+show_social: false
+show_excerpts: false
+show_frame: true
+show_sidebar: false
+
+# Menu
+navigation:
+  - {file: "index.html", icon: home}
+  - {file: "README.md", icon: adress-card}
