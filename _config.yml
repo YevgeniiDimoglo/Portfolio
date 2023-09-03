@@ -18,5 +18,5 @@ show_sidebar: false
 
 # Menu
 navigation:
-  - {file: "index.html", icon: home}
-  - {file: "README.md", icon: adress-card}
+  - {file: "index.html", title: "Home", icon: home}
+  - {file: "README.md", title: "About Me", icon: adress-card}
