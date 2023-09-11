@@ -12,7 +12,6 @@ theme: jekyll-theme-architect
 show_social: false
 show_excerpts: false
 show_frame: true
-show_sidebar: false
 
 # Menu
 navigation:
