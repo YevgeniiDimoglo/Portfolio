@@ -12,9 +12,9 @@ Personal Portfolio
 
 #### 2nd Year
 
+  >  ### Astroworks 
+  >  ![Astroworks](/assets/images/img/Games/game5.png) 
   >  <p> 
-  >  ### Astroworks <br>
-  >  ![Astroworks](/assets/images/img/Games/game5.png) <br>
   >  Genre: RTS (3D) <br>
   >  Duration: 3 month <br>
   >  Enviroment: Vulkna / C++ / VS2022 <br>
@@ -22,9 +22,10 @@ Personal Portfolio
   >  Responsibility: Everything </p>
 
 * * *
+
+  >  ### Agravity Panic 
+  >  ![Agravity Panic](/assets/images/img/Games/game4.png) 
   >  <p>
-  >  ### Agravity Panic <br>
-  >  ![Agravity Panic](/assets/images/img/Games/game4.png) <br>
   >  Genre: Action / Puzzle (3D) <br>
   >  Duration: 2 month <br>
   >  Enviroment: UE5 / Blueprints <br>
@@ -32,9 +33,10 @@ Personal Portfolio
   >  Responsibility: Level design, UI, Prop gimmicks </p>
 
 * * *
+
+  >  ### Caroline 
+  >  ![Caroline](/assets/images/img/Games/game3.png) 
   >  <p>
-  >  ### Caroline <br>
-  >  ![Caroline](/assets/images/img/Games/game3.png) <br>
   >  Genre: Action (3D) <br>
   >  Duration: 3 weeks <br>
   >  Enviroment: Unity / C# <br>
@@ -43,9 +45,9 @@ Personal Portfolio
 
 #### 1st Year
 
+  >  ### Chop my way
+  >  ![Chop my way](/assets/images/img/Games/game2.png) 
   >  <p>
-  >  ### Chop my way <br>
-  >  ![Chop my way](/assets/images/img/Games/game2.png) <br>
   >  Genre: Endless Runner (3D) <br>
   >  Duration: 2 weeks <br>
   >  Enviroment: Unity / C# <br>
@@ -53,6 +55,7 @@ Personal Portfolio
   >  Responsibility: Particle Effect, Stage creation </p>
 
 * * *
+
   >  <p>
   >  ### Aces <br>
   >  ![Aces](/assets/images/img/Games/game1.png) <br>
