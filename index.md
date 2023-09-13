@@ -8,11 +8,11 @@ Personal Portfolio
 
 * * *
 
-### Works
+## Works
 
-#### 2nd Year
+### 2nd Year
 
-  >  ### Astroworks 
+  #### Astroworks 
   >  ![Astroworks](/assets/images/img/Games/game5.png) 
   >  <p> 
   >  Genre: RTS (3D) <br>
@@ -23,7 +23,7 @@ Personal Portfolio
 
 * * *
 
-  >  ### Agravity Panic 
+  #### Agravity Panic 
   >  ![Agravity Panic](/assets/images/img/Games/game4.png) 
   >  <p>
   >  Genre: Action / Puzzle (3D) <br>
@@ -34,7 +34,7 @@ Personal Portfolio
 
 * * *
 
-  >  ### Caroline 
+  #### Caroline 
   >  ![Caroline](/assets/images/img/Games/game3.png) 
   >  <p>
   >  Genre: Action (3D) <br>
@@ -43,9 +43,9 @@ Personal Portfolio
   >  Team: 2 programmers, 5 designers <br>
   >  Responsibility: Level design, Level Transition, UI, Score <br>
 
-#### 1st Year
+### 1st Year
 
-  >  ### Chop my way
+  #### Chop my way
   >  ![Chop my way](/assets/images/img/Games/game2.png) 
   >  <p>
   >  Genre: Endless Runner (3D) <br>
@@ -56,11 +56,16 @@ Personal Portfolio
 
 * * *
 
+  #### Aces
+  >  ![Aces](/assets/images/img/Games/game1.png)
   >  <p>
-  >  ### Aces <br>
-  >  ![Aces](/assets/images/img/Games/game1.png) <br>
   >  Genre: Fixed Shooter (2D) <br>
   >  Duration: 3 weeks <br>
   >  Enviroment: DX11 / C++ / VS2019 <br>
   >  Team: 1 programmer <br>
   >  Responsibility: Everything </p>
+
+
+## Skills
+
+
