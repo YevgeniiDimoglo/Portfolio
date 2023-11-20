@@ -19,7 +19,8 @@ Personal Portfolio
 
 ### 作品について
 
-VulkanAPIを使って、WindowsとLinuxで動作するマルチプラットフォームでオープンワールドゲームを扱えるレンダリングエンジンを目指しています。Unreal Engineを参考にしてフォトリアルな表現をチャレンジします。<br>
+VulkanAPIを使って、WindowsとLinuxで動作するマルチプラットフォームでオープンワールドゲームを扱えるレンダリングエンジンを目指しています。<br>
+Unreal Engineを参考にしてフォトリアルな表現をチャレンジします。<br>
 
 [ソースコード](https://github.com/YevgeniiDimoglo/Astroworks)
 
