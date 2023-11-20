@@ -7,10 +7,9 @@ Personal Portfolio
 * * *
 
 ## 自己紹介
-  >  <p>
-  >  名前 Dimoglo Yevgenii (ゆうじん) <br>
-  >  学校 ECCコンピュータ専門学校	マルチメディア研究学科　ゲームプログラム開発コース （三年制 2年(2025年卒業見込み) <br>
-  >  希望職種 シェーダープログラミング、ゲームエンジン開発 </p>
+  **名前** Dimoglo Yevgenii (ゆうじん) <br>
+  **学校** ECCコンピュータ専門学校	マルチメディア研究学科　ゲームプログラム開発コース （三年制 2年(2025年卒業見込み) <br>
+  **希望職種** シェーダープログラミング、ゲームエンジン開発 </p>
 
 * * * 
 
@@ -23,7 +22,7 @@ Unreal Engineを参考にしてフォトリアルな表現をチャレンジし�
 
 [ソースコード](https://github.com/YevgeniiDimoglo/Astroworks)
 
-###　こだわった部分
+### こだわった部分
 
 >  ![PBR](/assets/images/img/Games/PBR.png) 
 >  <p>
