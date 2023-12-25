@@ -6,7 +6,7 @@ lang: "jp"
 future: true
 
 show_downloads: false
-theme: jekyll-theme-architect
+remote_theme: chrisbobbe/jekyll-theme-prologue
 
 # Layout
 show_social: false
