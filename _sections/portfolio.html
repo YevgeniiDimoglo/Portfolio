@@ -4,52 +4,40 @@ icon: fa-th
 order: 2
 ---
 
-<p>Vitae natoque dictum etiam semper magnis enim feugiat convallis convallis
-  egestas rhoncus ridiculus in quis risus amet curabitur tempor orci penatibus.
-  Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis
-  fusce hendrerit lacus ridiculus.</p>
+<h3>作品について</h3>
 
-  <div class="row">
-    <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
-        <header>
-          <h3>Ipsum Feugiat</h3>
-        </header>
-      </div>
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="Rhoncus Semper" /></a>
-        <header>
-          <h3>Rhoncus Semper</h3>
-        </header>
-      </div>
-    </div>
-    <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic04.jpg' | relative_url }}" alt="Magna Nullam" /></a>
-        <header>
-          <h3>Magna Nullam</h3>
-        </header>
-      </div>
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}" alt="Natoque Vitae" /></a>
-        <header>
-          <h3>Natoque Vitae</h3>
-        </header>
-      </div>
-    </div>
-    <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic06.jpg' | relative_url }}" alt="Dolor Penatibus" /></a>
-        <header>
-          <h3>Dolor Penatibus</h3>
-        </header>
-      </div>
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Orci Convallis" /></a>
-        <header>
-          <h3>Orci Convallis</h3>
-        </header>
-      </div>
-    </div>
-  </div>
+<h4>
+VulkanAPIを使って、WindowsとLinuxで動作するマルチプラットフォームでオープンワールドゲームを扱えるレンダリングエンジンを目指しています。<br>
+Unreal Engineを参考にしてフォトリアルな表現をチャレンジします。<br>
+</h4>
+
+<header>
+    <p>
+        PBRレンダリング <br>
+        光学的に正確なレンダリングを実現しました。たとえぱ物理的なマテリアルモデルのためにPBRは異なる種類の素材 金属、非金属、絶縁体など に対するマテリアルモデルを提供し、それぞれの物質の光学的な特性を考慮します。<br>
+        サポートマテリアルはアルベド、ノーマル、ラフネス、アンビエントオクルージョン、エミッションも含めています。
+    </p>
+</header>
+<header>
+    <p> 
+        OIT (半透明レンダリング) <br>
+        透明なオブジェクトを効果的に描画するための手法です。作品では不透明と半透明は異なる方法で計算して、最後のフレイムでブレンドします。 <br>
+        これで順番は関係ずに重なっている半透明オブジェクトリアル的にレンダリングできます。 
+    </p>
+</header>
+<header>
+    <p> 
+        レイマーチング<br>
+        レイがオブジェクトの表面に到達した後、その点でのシェーディングが行われます。光源、影、反射、屈折などが計算され、最終的なピクセルの色が生 成されます。<br>
+        その計算に基づいて炎の球をレンダリングします。この球は2DTextureに描画して3Dのように見えます。 
+    </p>
+</header>
+
+<header>
+    <p> 
+        <strong>言語:</strong> C++, C#, Python <br>
+        <strong>ゲームエンジン:</strong> Unreal, Unity <br>
+        <strong>グラフィックスAPI:</strong> OpenGL / Vulkan / DX11 <br>
+        <strong>ツル:</strong> Git, Photoshop, Blender, VS2022 
+    </p>
+</header>
