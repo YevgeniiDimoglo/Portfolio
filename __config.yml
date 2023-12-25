@@ -1,0 +1,19 @@
+# Site settings
+title: Portfolio
+author: "Yevgenii Dimoglo"
+description: Personal gamedev portfolio
+lang: "jp"
+future: true
+
+show_downloads: false
+remote_theme: chrisbobbe/jekyll-theme-prologue
+
+# Layout
+show_social: false
+show_excerpts: false
+show_frame: true
+
+# Menu
+navigation:
+  - {file: "index.md", title: "Home", icon: home}
+  - {file: "README.md", title: "About Me", icon: adress-card}
