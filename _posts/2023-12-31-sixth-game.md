@@ -4,7 +4,7 @@ author: ゆうじん
 layout: post
 ---
 
-<span class="image right"><img src="assets/images/img/Games/game5.png" alt="" /></span>
+<span class="image featured"><img src="assets/images/img/Games/game5.png" alt="" /></span>
 
 <div class="table-wrapper">
   <table>
@@ -29,7 +29,7 @@ layout: post
       </tr>
       <tr>
         <td>制作人数</td>
-        <td>1</td>
+        <td>個人</td>
       </tr>
       <tr>
         <td>担当</td>

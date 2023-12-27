@@ -6,7 +6,7 @@ icon: fa-lightbulb
 icon-style: regular
 ---
 
-<span class="image right"><img src="assets/images/img/Games/game4.png" alt="" /></span>
+<span class="image featured"><img src="assets/images/img/Games/game4.png" alt="" /></span>
 
 <div class="table-wrapper">
   <table>
