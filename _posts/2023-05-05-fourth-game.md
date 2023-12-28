@@ -40,3 +40,7 @@ icon-style: regular
     </tbody>
   </table>
 </div>
+
+<footer>
+    <a href="https://github.com/YevgeniiDimoglo/TeamProject2023/tree/release" class="button scrolly">作品ソース</a>
+</footer>

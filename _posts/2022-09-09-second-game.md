@@ -38,3 +38,7 @@ layout: post
     </tbody>
   </table>
 </div>
+
+<footer>
+    <a href="https://yujindimoglo.itch.io/chop-my-way" class="button scrolly">作品ソース</a>
+</footer>

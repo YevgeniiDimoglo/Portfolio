@@ -38,3 +38,7 @@ layout: post
     </tbody>
   </table>
 </div>
+
+<footer>
+    <a href="https://github.com/YevgeniiDimoglo/SPIC2023/tree/release" class="button scrolly">作品ソース</a>
+</footer>

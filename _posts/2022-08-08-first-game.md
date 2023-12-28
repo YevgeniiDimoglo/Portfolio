@@ -38,3 +38,7 @@ layout: post
     </tbody>
   </table>
 </div>
+
+<footer>
+    <a href="https://github.com/YevgeniiDimoglo/2D-GameEngine" class="button scrolly">作品ソース</a>
+</footer>
