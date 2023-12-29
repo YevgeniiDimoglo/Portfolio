@@ -2,8 +2,6 @@
 title: Agravity Panic
 author: ゆうじん
 layout: post
-icon: fa-lightbulb
-icon-style: regular
 ---
 
 <span class="image featured"><img src="assets/images/img/Games/game4.png" alt="" /></span>
