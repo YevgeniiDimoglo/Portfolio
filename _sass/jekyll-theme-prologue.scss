@@ -249,6 +249,8 @@
 		img {
 			display: block;
 			width: 100%;
+			max-width:450px;
+    		max-height:450px;
 		}
 
 		&.avatar48 {
