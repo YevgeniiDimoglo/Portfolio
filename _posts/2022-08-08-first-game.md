@@ -4,7 +4,7 @@ author: ゆうじん
 layout: post
 ---
 
-<span class="image featured"><img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game6.png" alt="" /></span>
+<span class="image featured"><img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game1.png" alt="" /></span>
 
 <div class="table-wrapper">
   <table>
