@@ -249,8 +249,6 @@
 		img {
 			display: block;
 			width: 100%;
-			max-width:450px;
-    		max-height:450px;
 		}
 
 		&.avatar48 {
@@ -278,11 +276,15 @@
 		&.left {
 			float: left;
 			margin: 0 2em 2em 0;
+			max-width: 50%;
+			max-height: 50%;
 		}
 
 		&.right {
 			float: right;
 			margin: 0 0 2em 2em;
+			max-width: 50%;
+			max-height: 50%;
 		}
 
 		&.centered {
