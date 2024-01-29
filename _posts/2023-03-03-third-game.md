@@ -4,7 +4,7 @@ author: ゆうじん
 layout: post
 ---
 
-<span class="image featured"><img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game3.png" alt="" /></span>
+<span class="image featured"><img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game3s.png" alt="" /></span>
 
 <div class="table-wrapper">
   <table>
@@ -42,8 +42,8 @@ layout: post
  <p>
     <h4>
     コンセプト: こだわり。<br>
-    ゲーム概要:　3Dアクションパズルゲームです、無重力で引っ張っている動きを実装しました。<br>
-    アピールポイント:　無重力で移動感です。
+    ゲーム概要:　3Dアクションパズルゲームです、掃除シムレイションです。<br>
+    アピールポイント:　完璧感です。
     </h4>
   </p>
 
