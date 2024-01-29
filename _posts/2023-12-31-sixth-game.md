@@ -38,3 +38,9 @@ layout: post
     </tbody>
   </table>
 </div>
+
+ <p>
+    <h4>
+    Starcraftを真似をして3Dリアルタイムストラテジーです。
+    </h4>
+  </p>

@@ -39,6 +39,13 @@ layout: post
   </table>
 </div>
 
+ <p>
+    <h4>
+    コンセプト: 路を進める。<br>
+    ゲーム概要:　3Dラニングゲームです
+    </h4>
+  </p>
+
 <footer>
     <a href="https://yujindimoglo.itch.io/chop-my-way" class="button scrolly">作品ソース</a>
 </footer>

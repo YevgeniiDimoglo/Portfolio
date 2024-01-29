@@ -39,6 +39,14 @@ layout: post
   </table>
 </div>
 
+ <p>
+    <h4>
+    コンセプト: こだわり。<br>
+    ゲーム概要:　3Dアクションパズルゲームです、無重力で引っ張っている動きを実装しました。<br>
+    アピールポイント:　無重力で移動感です。
+    </h4>
+  </p>
+
 <footer>
     <a href="https://github.com/YevgeniiDimoglo/TeamProject2023/tree/release" class="button scrolly">作品ソース</a>
 </footer>
