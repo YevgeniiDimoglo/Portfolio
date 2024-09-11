@@ -4,6 +4,12 @@ author: ゆうじん
 layout: post
 ---
 
+ <p　style="text-align: center">
+    <h1>
+          延期
+    </h1>
+  </p>
+
 <span class="image featured"><img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game5s.png" alt="" /></span>
 
 <div class="table-wrapper">
