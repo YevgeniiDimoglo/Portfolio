@@ -4,7 +4,9 @@ author: ゆうじん
 layout: post
 ---
 
-<span class="image featured"><img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/LudusSomina.png" alt="" /></span>
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/Fzjk5DQudTQ">
+</iframe>
 
 <div class="table-wrapper">
   <table>

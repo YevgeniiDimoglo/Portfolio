@@ -4,7 +4,9 @@ author: ゆうじん
 layout: post
 ---
 
-<span class="image featured"><img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game6s.png" alt="" /></span>
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/qO9XvMle2tQ">
+</iframe>
 
 <div class="table-wrapper">
   <table>
