@@ -1,0 +1,219 @@
+---
+title: 作品
+icon: fa-user
+order: 2
+---
+
+<style>
+
+    body {
+    font-family: Arial;
+    margin: 0;
+    }
+    
+    * {
+    box-sizing: border-box;
+    }
+
+    img {
+    vertical-align: middle;
+    }
+
+    /* Position the image container (needed to position the left and right arrows) */
+    .imgcontainer {
+      position: relative;
+    }
+    
+    /* Hide the images by default */
+    .mySlides {
+      display: none;
+    }
+    
+    /* Add a pointer when hovering over the thumbnail images */
+    .cursor {
+      cursor: pointer;
+    }
+    
+    /* Next & previous buttons */
+    .arrprev,
+    .arrnext {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-100%);
+    width: auto;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    }
+
+    .arrprev {
+    left: 0;
+    border-radius: 3px 0 0 3px;
+    }
+
+    .arrnext {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+    }
+
+    .arrprev:hover,
+    .arrnext:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+    }
+    
+    /* Number text (1/3 etc) */
+    .numbertext {
+      color: #f2f2f2;
+      font-size: 12px;
+      padding: 8px 12px;
+      position: absolute;
+      top: 0;
+    }
+    
+    /* Container for image text */
+    .caption-container {
+      text-align: center;
+      background-color: #222;
+      padding: 2px 16px;
+      color: white;
+    }
+    
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+    /* Six columns side by side */
+    .column {
+      float: left;
+      width: 14.28%;
+    }
+    
+    /* Add a transparency effect for thumnbail images */
+    .demo {
+      opacity: 0.6;
+    }
+    
+    .active,
+    .demo:hover {
+      opacity: 1;
+    }
+    </style>
+
+<div class="imgcontainer">
+  <div class="mySlides">
+    <div class="numbertext">1 / 7</div>
+    <a href="https://yevgeniidimoglo.github.io/Portfolio/2024/10/01/seventh-game.html">
+    <img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/LudusSomina.png" style="width:100%">
+</a>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 7</div>
+    <a href="https://yevgeniidimoglo.github.io/Portfolio/2023/05/05/fourth-game.html">
+    <img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game4.png" style="width:100%">
+</a>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 7</div>
+    <a href="https://yevgeniidimoglo.github.io/Portfolio/2023/03/03/third-game.html">
+    <img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game3.png" style="width:100%">
+</a>
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">4 / 7</div>
+    <a href="https://yevgeniidimoglo.github.io/Portfolio/2023/12/12/fifth-game.html">
+    <img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game6.png" style="width:100%">
+</a>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 7</div>
+    <a href="https://yevgeniidimoglo.github.io/Portfolio/2022/09/09/second-game.html">
+    <img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game2.png" style="width:100%">
+</a>
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">6 / 7</div>
+    <a href="https://yevgeniidimoglo.github.io/Portfolio/2022/08/08/first-game.html">
+    <img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game1.png" style="width:100%">
+</a>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">7 / 7</div>
+    <a href="https://yevgeniidimoglo.github.io/Portfolio/2023/12/31/sixth-game.html">
+    <img src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game5.png" style="width:100%">
+    </a>
+</div>
+    
+  <a class="arrprev" onclick="plusSlides(-1)">❮</a>
+  <a class="arrnext" onclick="plusSlides(1)">❯</a>
+
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/LudusSomnia_s.png" style="width:100%" onclick="currentSlide(1)" alt="Ludus Somnia">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game4s.png" style="width:100%" onclick="currentSlide(2)" alt="Agravity Panic">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game3s.png" style="width:100%" onclick="currentSlide(3)" alt="Caroline">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game6s.png" style="width:100%" onclick="currentSlide(4)" alt="Himo">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game2s.png" style="width:100%" onclick="currentSlide(5)" alt="Chop my way">
+    </div>    
+    <div class="column">
+      <img class="demo cursor" src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game1s.png" style="width:100%" onclick="currentSlide(6)" alt="Aces">
+    </div>
+    <div class="column">
+        <img class="demo cursor" src="https://yevgeniidimoglo.github.io/Portfolio/assets/images/img/Games/game5s.png" style="width:100%" onclick="currentSlide(6)" alt="ReVE">
+      </div>
+  </div>
+</div>
+
+<script>
+    let slideIndex = 1;
+    showSlides(slideIndex);
+    
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+    
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+    
+    function showSlides(n) {
+      let i;
+      let slides = document.getElementsByClassName("mySlides");
+      let dots = document.getElementsByClassName("demo");
+      let captionText = document.getElementById("caption");
+      if (n > slides.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " active";
+      captionText.innerHTML = dots[slideIndex-1].alt;
+    }
+    </script>

@@ -46,3 +46,7 @@ src="https://www.youtube.com/embed/Fzjk5DQudTQ">
     マルチプレイオンラインゲーム。
     </h4>
   </p>
+
+<footer>
+    <a href="https://github.com/E4CGO/E4C-Online" class="button scrolly">作品ソース</a>
+</footer>

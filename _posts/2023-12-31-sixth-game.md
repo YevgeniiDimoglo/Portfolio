@@ -19,7 +19,7 @@ src="https://www.youtube.com/embed/GeDLqBxk9n0">
     <tbody>
       <tr>
         <td>ジャンル</td>
-        <td>RTS</td>
+        <td>ゲームエンジン</td>
       </tr>
       <tr>
         <td>制作期間</td>
@@ -41,8 +41,6 @@ src="https://www.youtube.com/embed/GeDLqBxk9n0">
   </table>
 </div>
 
- <p>
-    <h4>
-    Starcraftを真似をして3Dリアルタイムストラテジーです。
-    </h4>
-  </p>
+<footer>
+    <a href="https://github.com/YevgeniiDimoglo/Astroworks" class="button scrolly">作品ソース</a>
+</footer>
