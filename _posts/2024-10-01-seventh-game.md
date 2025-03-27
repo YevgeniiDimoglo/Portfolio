@@ -48,5 +48,6 @@ src="https://www.youtube.com/embed/Fzjk5DQudTQ">
   </p>
 
 <footer>
-    <a href="https://github.com/E4CGO/E4C-Online" class="button scrolly">作品ソース</a>
+    <a href="https://github.com/E4CGO/E4C-Online" class="button scrolly">作品ソースコード</a>
+    <a href="https://drive.google.com/file/d/1nXf5BTO705wuXih4P0HnApxIcVv6jDTb/view?usp=sharing" class="button scrolly">作品データ</a>
 </footer>

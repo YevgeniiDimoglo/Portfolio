@@ -50,5 +50,6 @@ src="https://www.youtube.com/embed/SCncghNcbP8">
   </p>
 
 <footer>
-    <a href="https://github.com/YevgeniiDimoglo/TeamProject2023/tree/release" class="button scrolly">作品ソース</a>
+    <a href="https://github.com/YevgeniiDimoglo/TeamProject2023/tree/release" class="button scrolly">作品ソースコード</a>
+        <a href="https://drive.google.com/file/d/1Yow2-qYa8aeg_wCUMfd3VB_xOxEIMmut/view?usp=sharing" class="button scrolly">作品データ</a>
 </footer>

@@ -50,4 +50,5 @@ src="https://www.youtube.com/embed/Z8IkVXCIw1s">
 
 <footer>
     <a href="https://yujindimoglo.itch.io/chop-my-way" class="button scrolly">作品ソース</a>
+        <a href="https://drive.google.com/file/d/1r6AdCHRxC22Wcu3Hnf5-IVHNNZHz61NH/view?usp=sharing" class="button scrolly">作品データ</a>
 </footer>

@@ -50,5 +50,5 @@ src="https://www.youtube.com/embed/qO9XvMle2tQ">
   </p>
 
 <footer>
-    <a href="https://drive.google.com/drive/folders/15ZYSVkTSr5okwm_EEsnJXK1_Iz1iE_5r?usp=drive_link" class="button scrolly">作品</a>
+    <a href="https://drive.google.com/drive/folders/15ZYSVkTSr5okwm_EEsnJXK1_Iz1iE_5r?usp=drive_link" class="button scrolly">作品データ</a>
 </footer>

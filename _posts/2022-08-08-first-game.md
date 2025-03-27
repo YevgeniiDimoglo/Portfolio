@@ -46,5 +46,5 @@ layout: post
   </p>
 
 <footer>
-    <a href="https://github.com/YevgeniiDimoglo/2D-GameEngine" class="button scrolly">作品ソース</a>
+    <a href="https://github.com/YevgeniiDimoglo/2D-GameEngine" class="button scrolly">作品ソースコード</a>
 </footer>
