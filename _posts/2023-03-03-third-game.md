@@ -49,5 +49,5 @@ layout: post
 
 <footer>
     <a href="https://github.com/YevgeniiDimoglo/SPIC2023/tree/release" class="button scrolly">作品ソースコード</a>
-        <a href="https://drive.google.com/file/d/1x4ptIBvIEgq0HynqBtSZ8YxCq4FXXar1/view?usp=sharing" class="button scrolly">作品ソースコード</a>
+        <a href="https://drive.google.com/file/d/1x4ptIBvIEgq0HynqBtSZ8YxCq4FXXar1/view?usp=sharing" class="button scrolly">作品データ</a>
 </footer>

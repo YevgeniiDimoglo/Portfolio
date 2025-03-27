@@ -97,6 +97,7 @@ src="https://www.youtube.com/embed/GeDLqBxk9n0">
 
 </h4>
 
+<hr>
 
 <footer>
     <a href="https://github.com/YevgeniiDimoglo/Astroworks" class="button scrolly">作品ソースコード</a>
